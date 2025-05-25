@@ -13,7 +13,7 @@ class InitScreen extends StatelessWidget {
           padding: const EdgeInsets.all(60.0),
           child: Center(
             child: Text(
-                'Morgen will ich sagen genau so wie jetzt: Ich übe heute auch wie gich gestern gemacht habe.'),
+                'Morgen will ich sagen genau so wie jetzt: Ich übe heute auch wie gestern gemacht habe.'),
           )),
     );
   }
